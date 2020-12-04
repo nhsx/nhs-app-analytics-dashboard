@@ -45,7 +45,7 @@ The NHS App dashboard is provided by NHSX, NHS Digital, and NHS England and Impr
 | NHS App Logins                                        | Number of NHS App logins in the specified reporting period                                               |
 | Users Booking Appointments                            | Number of App users booking GP Practice Appointments in the specified reporting period                   |
 | Appointment Cancellation                              | Number of appointment cancelled from the NHS App in the specified reporting period                       |
-| Users Requesting Prescriptions                        | Number of App users requesting prescreptions in the specified reporting period                           |
+| Users Requesting Prescriptions                        | Number of App users requesting prescriptions in the specified reporting period                           |
 | User Accessing Medical Records                        | Number of App users accessing their medical records in the specified reporting period                    |
 | Users Visiting NHS 111 Online                         | Number of App users visiting NHS 111 online from the NHS App in the specified reporting period           |
 | Organ Donation Registrations                          | Number of App users who have registered to be an organ donor in the specified reporting period           |
