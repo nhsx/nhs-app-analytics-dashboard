@@ -27,7 +27,7 @@ The data is updated weekly, every Wednesday at 7:30am.
 ## How to access the dashboard
 To access the dashboard, you need to log in to your OKTA account. This is the same account used for other NHS Improvement services on the NHS Improvement website. Log in and then click on ‘My account’, select ‘Your analytical products’ and select ‘NHS App dashboard’.
 
-[Access the NHS App Dashboard](https://analytics.improvement.nhs.uk/#/workbooks/1166/views)
+[Access the NHS App Dashboard](https://tabanalytics.data.england.nhs.uk/#/views/NHSAppDashboard/Uptake)
 
 ## Background to the NHS App dashboard
 The NHS App dashboard is provided by NHSX, NHS Digital, and NHS England and Improvement. It enables those working in the health and care system to monitor the adoption and uptake of the NHS App. This information can then support strategic decision making at all levels of the system.
