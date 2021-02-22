@@ -43,8 +43,8 @@ The NHS App dashboard is provided by NHSX, NHS Digital, and NHS England and Impr
 | Total GP List Size (from Patient Online)              | Number of patients registered at a general practice to date (cumulative)                                 |
 | % GP population registered for Patient Online         | Proportion of GP registered population registered for GP Online Services to date (cumulative)            |
 | NHS App Logins                                        | Number of NHS App logins in the specified reporting period                                               |
-| Users Booking Appointments                            | Number of App users booking GP Practice Appointments in the specified reporting period                   |
-| Appointment Cancellation                              | Number of appointment cancelled from the NHS App in the specified reporting period                       |
+| Users Booking Appointments                            | Number of App users booking GP appointments in the specified reporting period                   |
+| Appointment Cancellation                              | Number of App users cancelling GP appointments in the specified reporting period                       |
 | Users Requesting Prescriptions                        | Number of App users requesting prescriptions in the specified reporting period                           |
 | User Accessing Medical Records                        | Number of App users accessing their medical records in the specified reporting period                    |
 | Users Visiting NHS 111 Online                         | Number of App users visiting NHS 111 online from the NHS App in the specified reporting period           |
